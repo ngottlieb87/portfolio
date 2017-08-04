@@ -1,23 +1,23 @@
-#Noah's Portfolio
+# Noah's Portfolio
 
-###By Noah Gottlieb
+### By Noah Gottlieb
 
-##Description
+## Description
 
-##In this independent project I created a homepage for my personal portfolio. In the portfolio I briefly describe my work history, my history with programming ,and a couple of my hobbies. I go on to give a synopsis of a couple projects that I created during my first week at _Epicodus_, providing links to their git-hub repositories.
+## In this independent project I created a homepage for my personal portfolio. In the portfolio I briefly describe my work history, my history with programming ,and a couple of my hobbies. I go on to give a synopsis of a couple projects that I created during my first week at _Epicodus_, providing links to their git-hub repositories.
 
-##Setup
+## Setup
 
 * Clone repository
 * Open Cloned repository with text editor (eg. atom, notepad, etc)
 * Make changes, add, commit, and push to remote of preference
 
-##Technologies Used
+## Technologies Used
 
 * HTML
 * CSS
 * Bootstrap
 
-###Legal
+### Legal
 
-####Copyright (c) 2017
+#### Copyright (c) 2017
