@@ -2,12 +2,11 @@ body{
   background-color: #edcca1;
 }
 #topWell{
-  background-color: #fff8bc;
+  /*background-color: #fff8bc;*
   padding-bottom: -2px;
 }
-.ascii{
-  width: 300px;
-  background-color: #edcca1;
+.noah{
+  background-size: 100%;
 }
 .jumbotron{
   background-color: #fff8bc;
@@ -17,6 +16,9 @@ body{
 }
 .about{
   font-size: 17px;
+}
+#noah{
+  width: 40%;
 }
 #pet{
   float: left;
