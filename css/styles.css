@@ -5,6 +5,9 @@
 body{
   background-color: #edcca1;
 }
+h4{
+  padding-left: 40px;
+}
 .jumbotron{
   background-color: #fff8bc;
   border: 2px solid #428bca;
