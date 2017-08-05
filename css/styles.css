@@ -1,10 +1,14 @@
 .nav li{
   font-size: 20px;
   font-family: 'Shrikhand', cursive;
+  margin-top: 20px;
 }
 body{
   background-color: #edcca1;
-  
+
+}
+h4{
+  padding-left: 40px
 }
 .jumbotron{
   background-color: #fff8bc;
@@ -30,19 +34,19 @@ body{
 }
 #pet{
   float: left;
-  padding-right: 20px;
+  margin-right: 20px;
 }
 #island{
   float: left;
-  padding-right: 20px;
+  margin-right: 20px;
 }
 #home{
   float: left;
-  padding-right: 20px;
+  margin-right: 20px;
 }
 #wiki{
   float: left;
-  padding-right: 20px;
+  margin-right: 20px;
   width:55%;
 }
 #borderProjects{
